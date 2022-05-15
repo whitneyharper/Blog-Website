@@ -1,11 +1,11 @@
 // import Home from './Pages/Home';
-import ProfilePage from './Pages/ProfilePage';
+import CreateAccount from './Pages/CreateAccount';
 import './App.css';
 
 function App() {
   return (
     <div className="App">
-      <ProfilePage />
+      <CreateAccount />
     </div>
   );
 }

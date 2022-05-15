@@ -24,6 +24,11 @@
   color: white;
 }
 
+.redAsterisks::after{
+  content: "*";
+  color: red;
+}
+
 .App-link {
   color: #61dafb;
 }
